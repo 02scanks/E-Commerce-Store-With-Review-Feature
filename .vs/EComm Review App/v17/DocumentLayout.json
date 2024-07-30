@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\reviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|c:\\users\\grand\\source\\repos\\ecomm review app\\ecomm review app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A31A1CFF-15A3-4065-B2E5-E0137F4B853F}|EComm Review App\\EComm Review App.csproj|solutionrelative:ecomm review app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Controllers\\FileController.cs",
+              "RelativeToolTip": "EComm Review App\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:19:09.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewForm.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\ReviewForm.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\ReviewForm.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\ReviewForm.cs",
+              "RelativeToolTip": "EComm Review App\\ReviewForm.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:18:39.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\AddProduct.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\AddProduct.cs",
+              "RelativeToolTip": "EComm Review App\\AddProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:18:30.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Form1.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Form1.cs",
+              "RelativeToolTip": "EComm Review App\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:18:14.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Form1.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Form1.cs [Design]",
+              "RelativeToolTip": "EComm Review App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:14:50.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "EComm Review App\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\Grand\\source\\repos\\EComm Review App\\EComm Review App\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "EComm Review App\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:34:00.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

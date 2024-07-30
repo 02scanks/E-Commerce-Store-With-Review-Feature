@@ -1,0 +1,106 @@
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.exe
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.deps.json
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.runtimeconfig.json
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.pdb
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.csproj.AssemblyReference.cache
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.Form1.resources
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.csproj.GenerateResource.cache
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.AssemblyInfoInputs.cache
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.AssemblyInfo.cs
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.csproj.CoreCompileInputs.cache
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Re.1FC66454.Up2Date
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\refint\EComm Review App.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.pdb
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm Review App.genruntimeconfig.cache
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\ref\EComm Review App.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\EComm Review App.dll.config
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.Models.ProductTemplate.resources
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.Properties.Resources.resources
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.Controllers.AddProduct.resources
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.Models.CartItemTemplate.resources
+C:\Users\Grand\source\repos\EComm Review App\EComm Review App\obj\Debug\net8.0-windows\EComm_Review_App.ReviewForm.resources

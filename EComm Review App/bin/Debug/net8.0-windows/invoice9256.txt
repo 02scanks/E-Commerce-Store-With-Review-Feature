@@ -1,0 +1,6 @@
+Invoice #9256
+Items:
+1x BMW Disc Brake Pad Set : $389.99
+1x 80 Series Air Filter: $89.24
+2x 80 Series Fuel Pump: $338
+Total Price: $817.23
