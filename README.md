@@ -1,4 +1,4 @@
-# EComm Review App / Car Parts Direction
+# EComm Review App / Car Parts Direct
 
 Welcome to **EComm Review App / Car Parts Direct**, a sophisticated C# application designed to streamline e-commerce management and enhance user interaction through product reviews. This application leverages the power of Entity Framework Core for seamless database operations and offers a comprehensive set of features to manage products, shopping carts, and user reviews effectively.
 
